@@ -1,0 +1,10 @@
+C:\Users\wxc\source\repos\aHome\aHome\bin\Debug\aHome.exe.config
+C:\Users\wxc\source\repos\aHome\aHome\bin\Debug\aHome.exe
+C:\Users\wxc\source\repos\aHome\aHome\bin\Debug\aHome.pdb
+C:\Users\wxc\source\repos\aHome\aHome\obj\Debug\aHome.csprojAssemblyReference.cache
+C:\Users\wxc\source\repos\aHome\aHome\obj\Debug\aHome.Form1.resources
+C:\Users\wxc\source\repos\aHome\aHome\obj\Debug\aHome.Properties.Resources.resources
+C:\Users\wxc\source\repos\aHome\aHome\obj\Debug\aHome.csproj.GenerateResource.cache
+C:\Users\wxc\source\repos\aHome\aHome\obj\Debug\aHome.csproj.CoreCompileInputs.cache
+C:\Users\wxc\source\repos\aHome\aHome\obj\Debug\aHome.exe
+C:\Users\wxc\source\repos\aHome\aHome\obj\Debug\aHome.pdb
