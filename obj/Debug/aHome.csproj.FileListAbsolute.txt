@@ -8,3 +8,10 @@ C:\Users\wxc\source\repos\aHome\aHome\obj\Debug\aHome.csproj.GenerateResource.ca
 C:\Users\wxc\source\repos\aHome\aHome\obj\Debug\aHome.csproj.CoreCompileInputs.cache
 C:\Users\wxc\source\repos\aHome\aHome\obj\Debug\aHome.exe
 C:\Users\wxc\source\repos\aHome\aHome\obj\Debug\aHome.pdb
+F:\桌面\Desktop\theWhole\aNewHome2\obj\Debug\aHome.csprojAssemblyReference.cache
+F:\桌面\Desktop\theWhole\aNewHome2\obj\Debug\aHome.Form1.resources
+F:\桌面\Desktop\theWhole\aNewHome2\obj\Debug\aHome.Properties.Resources.resources
+F:\桌面\Desktop\theWhole\aNewHome2\obj\Debug\aHome.csproj.GenerateResource.cache
+F:\桌面\Desktop\theWhole\aNewHome2\obj\Debug\aHome.csproj.CoreCompileInputs.cache
+F:\桌面\Desktop\theWhole\aNewHome2\obj\Debug\aHome.exe
+F:\桌面\Desktop\theWhole\aNewHome2\obj\Debug\aHome.pdb

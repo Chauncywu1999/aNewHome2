@@ -22,7 +22,7 @@ namespace aHome
         Room stairs;
         RoomWithHidingPlace hallway;
         RoomWithHidingPlace bathroom;
-        RoomWithHidingPlace masterBedroom;
+        RoomWithHidingPlace goodgame;
         RoomWithHidingPlace secondBedroom;
 
         OutsideWithDoor frontYard;
